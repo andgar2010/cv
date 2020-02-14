@@ -1,6 +1,6 @@
 # Page settings
 
-baseurl = "https://ryugibo.github.io/cv/"
+baseurl = "https://andgar2010.github.io/cv/"
 languageCode = "en-us"
 theme = "hugo-orbit-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
@@ -16,16 +16,16 @@ DefaultContentLanguage = "en"
 
 [Languages]
 [Languages.en]
-title = "John Doe Resume"
+title = "Andrés García Resume"
 styles = "styles.css"
-description = "Hugo Responsive Resume/CV Theme for Developers"
-author = "Pavel Kanyshev"
+description = "Andrés García Resume/CV"
+author = "Andrés García"
 
 # Sidebar sections
 
     # Profile section
     [Languages.en.profile]
-        name = "John Doe"
+        name = "Andrés García"
         tagline = "Full Stack Developer"
         avatar = "profile.png"
 
@@ -400,7 +400,7 @@ author = "Pavel Kanyshev"
         [[Languages.ko.skills.list]]
         skill = "Python & Django"
         level = "98%"
-                
+
         [[Languages.ko.skills.list]]
         skill = "Javascript & jQuery"
         level = "98%"
@@ -427,7 +427,7 @@ author = "Pavel Kanyshev"
     # Please keep the original attribution link when using for your own project.
     # If you'd like to use the template without the attribution,
     # you can check out other license options via template author's website: themes.3rdwavemedia.com
-    # 
+    #
     # As for Hugo port you may rewrite the "Ported for..." line with setting your name below.
 
     [Languages.ko.footer]
