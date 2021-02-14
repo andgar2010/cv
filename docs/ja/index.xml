@@ -6,9 +6,6 @@
     <description>Recent content on John Doe Resume</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="https://andgar2010.github.io/cv/ja/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://andgar2010.github.io/cv/ja/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

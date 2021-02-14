@@ -1,62 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
   <url>
     <loc>https://andgar2010.github.io/cv/ja/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://andgar2010.github.io/cv/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://andgar2010.github.io/cv/ko/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://andgar2010.github.io/cv/ja/categories/"
-                />
+    <xhtml:link rel="alternate" hreflang="en" href="https://andgar2010.github.io/cv/categories/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://andgar2010.github.io/cv/ko/categories/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://andgar2010.github.io/cv/ja/categories/" />
   </url>
-  
+
   <url>
     <loc>https://andgar2010.github.io/cv/ja/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://andgar2010.github.io/cv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://andgar2010.github.io/cv/ko/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://andgar2010.github.io/cv/ja/"
-                />
+    <xhtml:link rel="alternate" hreflang="en" href="https://andgar2010.github.io/cv/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://andgar2010.github.io/cv/ko/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://andgar2010.github.io/cv/ja/" />
   </url>
-  
+
   <url>
     <loc>https://andgar2010.github.io/cv/ja/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://andgar2010.github.io/cv/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://andgar2010.github.io/cv/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://andgar2010.github.io/cv/ja/tags/"
-                />
+    <xhtml:link rel="alternate" hreflang="en" href="https://andgar2010.github.io/cv/tags/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://andgar2010.github.io/cv/ko/tags/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://andgar2010.github.io/cv/ja/tags/" />
   </url>
-  
+
 </urlset>
